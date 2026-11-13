@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
-  # Temporary: this token cannot dispatch workflows, and the schedule had not
-  # fired yet. Removed after one successful verification run.
-  push:
-    branches: [main]
 
 permissions:
   contents: write
