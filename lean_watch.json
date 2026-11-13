@@ -1,0 +1,405 @@
+{
+ "updated_et": "2026-11-13 09:52:27 EST",
+ "updated_at": 1794581547.394586,
+ "count": 15,
+ "by_league": {
+  "Counter-Strike": 1,
+  "ITF": 1,
+  "NCAAB": 13
+ },
+ "games": [
+  {
+   "key": "cs2-4m1-all-2026-11-13",
+   "market_id": "7000311",
+   "tokens": [
+    "94144843066875106499058819890753907335676916682719729952686235359946674472741",
+    "100857146138753677752032272779286062624566873783057776565204394110302792041209"
+   ],
+   "token": "100857146138753677752032272779286062624566873783057776565204394110302792041209",
+   "fav": "Alliance",
+   "pregame": 0.93,
+   "start": 1794578400.0,
+   "start_et": "2026-11-13 09:00:00 EST",
+   "url": "https://polymarket.com/event/cs2-4m1-all-2026-11-13",
+   "league": "Counter-Strike",
+   "title": "Counter-Strike: Four Magic vs Alliance (BO3) - ESL Challenger League Europe Cup #12 Group A",
+   "outcomes": [
+    "Four Magic",
+    "Alliance"
+   ],
+   "eslug": "cs2-4m1-all-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": true,
+   "recorded_at": 1794578356.4360158,
+   "recorded_et": "2026-11-13 08:59:16 EST",
+   "qualifies": true
+  },
+  {
+   "key": "itf-bosio2-silva7-2026-11-13",
+   "market_id": "7005534",
+   "tokens": [
+    "15318262589615930170305880562210658044923391231978269620095985619933203397920",
+    "92885871392356840267032710462479505489826841964461596518879455832459663873995"
+   ],
+   "token": "15318262589615930170305880562210658044923391231978269620095985619933203397920",
+   "fav": "Victoria Bosio",
+   "pregame": 0.905,
+   "start": 1794578400.0,
+   "start_et": "2026-11-13 09:00:00 EST",
+   "url": "https://polymarket.com/event/itf-bosio2-silva7-2026-11-13",
+   "league": "ITF",
+   "title": "W15 S\u00e3o Carlos: Victoria Bosio vs Julia Konishi Camargo Silva",
+   "outcomes": [
+    "Victoria Bosio",
+    "Julia Konishi Camargo Silva"
+   ],
+   "eslug": "itf-bosio2-silva7-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-tamu-flst-2026-11-13",
+   "market_id": "6766258",
+   "tokens": [
+    "29989192751742789892453837502167076940858743195509412073958443500422830127986",
+    "56513211587244947754956144251279345865002283021621905502610156244540583579307"
+   ],
+   "token": "56513211587244947754956144251279345865002283021621905502610156244540583579307",
+   "fav": "Florida State Seminoles",
+   "pregame": 0.9585,
+   "start": 1794607200.0,
+   "start_et": "2026-11-13 17:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-tamu-flst-2026-11-13",
+   "league": "NCAAB",
+   "title": "Texas A&M-Corpus Christi Islanders vs. Florida State Seminoles",
+   "outcomes": [
+    "Texas A&M-Corpus Christi Islanders",
+    "Florida State Seminoles"
+   ],
+   "eslug": "cbb-tamu-flst-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-bryant-rutger-2026-11-13",
+   "market_id": "6766274",
+   "tokens": [
+    "108304380293404960906198517518992786042657176764256984549291001822793697897155",
+    "70070675270866825683067512665649898457029825399891090315713894836416212018079"
+   ],
+   "token": "70070675270866825683067512665649898457029825399891090315713894836416212018079",
+   "fav": "Rutgers Scarlet Knights",
+   "pregame": 0.9695,
+   "start": 1794610800.0,
+   "start_et": "2026-11-13 18:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-bryant-rutger-2026-11-13",
+   "league": "NCAAB",
+   "title": "Bryant Bulldogs vs. Rutgers Scarlet Knights",
+   "outcomes": [
+    "Bryant Bulldogs",
+    "Rutgers Scarlet Knights"
+   ],
+   "eslug": "cbb-bryant-rutger-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-troy-ncst-2026-11-13",
+   "market_id": "6766254",
+   "tokens": [
+    "111878442106091400068371100540075317452799532746677948122533323727051937089221",
+    "103942747742999186520400873963543217041179817593300458866888112133394838343409"
+   ],
+   "token": "103942747742999186520400873963543217041179817593300458866888112133394838343409",
+   "fav": "North Carolina State Wolfpack",
+   "pregame": 0.9675,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-troy-ncst-2026-11-13",
+   "league": "NCAAB",
+   "title": "Troy Trojans vs. North Carolina State Wolfpack",
+   "outcomes": [
+    "Troy Trojans",
+    "North Carolina State Wolfpack"
+   ],
+   "eslug": "cbb-troy-ncst-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-smho-ill-2026-11-13",
+   "market_id": "6766255",
+   "tokens": [
+    "6856065388450457054729758872424848190402245366183753429366101753728121879544",
+    "53084604913141504136996022002796765521391023565895517378215301972836757102931"
+   ],
+   "token": "53084604913141504136996022002796765521391023565895517378215301972836757102931",
+   "fav": "Illinois Fighting Illini",
+   "pregame": 0.9805,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-smho-ill-2026-11-13",
+   "league": "NCAAB",
+   "title": "Sam Houston Bearkats vs. Illinois Fighting Illini",
+   "outcomes": [
+    "Sam Houston Bearkats",
+    "Illinois Fighting Illini"
+   ],
+   "eslug": "cbb-smho-ill-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-tenst-tenn-2026-11-13",
+   "market_id": "6766261",
+   "tokens": [
+    "74357985894135216921646767285110081336083618975457763499061768002175664757150",
+    "5232991760933048134086340156175808436573057351984828639023736184700676419127"
+   ],
+   "token": "5232991760933048134086340156175808436573057351984828639023736184700676419127",
+   "fav": "Tennessee Volunteers",
+   "pregame": 0.9865,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-tenst-tenn-2026-11-13",
+   "league": "NCAAB",
+   "title": "Tennessee State Tigers vs. Tennessee Volunteers",
+   "outcomes": [
+    "Tennessee State Tigers",
+    "Tennessee Volunteers"
+   ],
+   "eslug": "cbb-tenst-tenn-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-merri-fl-2026-11-13",
+   "market_id": "6766263",
+   "tokens": [
+    "103659175976334822702548361144189254878865750571270114303254765676817976905149",
+    "42186943421726245009028497217620940138919404442524008374866197589724577851455"
+   ],
+   "token": "42186943421726245009028497217620940138919404442524008374866197589724577851455",
+   "fav": "Florida Gators",
+   "pregame": 0.997,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-merri-fl-2026-11-13",
+   "league": "NCAAB",
+   "title": "Merrimack College Warriors vs. Florida Gators",
+   "outcomes": [
+    "Merrimack College Warriors",
+    "Florida Gators"
+   ],
+   "eslug": "cbb-merri-fl-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-mstm-vtech-2026-11-13",
+   "market_id": "6766265",
+   "tokens": [
+    "67386040842650662188927989239882229495028542597506672899767656748388999861001",
+    "40636716227071206379760373331888707262055513456464734210392105100352773727136"
+   ],
+   "token": "40636716227071206379760373331888707262055513456464734210392105100352773727136",
+   "fav": "Virginia Tech Hokies",
+   "pregame": 0.982,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-mstm-vtech-2026-11-13",
+   "league": "NCAAB",
+   "title": "Mount St. Mary's Mountaineers vs. Virginia Tech Hokies",
+   "outcomes": [
+    "Mount St. Mary's Mountaineers",
+    "Virginia Tech Hokies"
+   ],
+   "eslug": "cbb-mstm-vtech-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-narz-uk-2026-11-13",
+   "market_id": "6766272",
+   "tokens": [
+    "64293958797960099627995094537393831889655282998958004383326458767391985896141",
+    "45842794562443684212560698877608786432460302394080558709476766640751966679386"
+   ],
+   "token": "45842794562443684212560698877608786432460302394080558709476766640751966679386",
+   "fav": "Kentucky Wildcats",
+   "pregame": 0.9925,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-narz-uk-2026-11-13",
+   "league": "NCAAB",
+   "title": "Northern Arizona Lumberjacks vs. Kentucky Wildcats",
+   "outcomes": [
+    "Northern Arizona Lumberjacks",
+    "Kentucky Wildcats"
+   ],
+   "eslug": "cbb-narz-uk-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-ohio-pur-2026-11-13",
+   "market_id": "6766278",
+   "tokens": [
+    "68530442696082573103859725941611011289718722729821100510284453280210817118797",
+    "75289371689641363146669844950278761911761491831839380874819210736089422053777"
+   ],
+   "token": "75289371689641363146669844950278761911761491831839380874819210736089422053777",
+   "fav": "Purdue Boilermakers",
+   "pregame": 0.95,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-ohio-pur-2026-11-13",
+   "league": "NCAAB",
+   "title": "Ohio Bobcats vs. Purdue Boilermakers",
+   "outcomes": [
+    "Ohio Bobcats",
+    "Purdue Boilermakers"
+   ],
+   "eslug": "cbb-ohio-pur-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-niowa-mst-2026-11-13",
+   "market_id": "6766280",
+   "tokens": [
+    "67157035686835787564192270261072498247789939431761212323761234709423408438806",
+    "106609600167629041752798708172882968928921475827709200443230015576230547103000"
+   ],
+   "token": "106609600167629041752798708172882968928921475827709200443230015576230547103000",
+   "fav": "Michigan State Spartans",
+   "pregame": 0.9855,
+   "start": 1794614400.0,
+   "start_et": "2026-11-13 19:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-niowa-mst-2026-11-13",
+   "league": "NCAAB",
+   "title": "Northern Iowa Panthers vs. Michigan State Spartans",
+   "outcomes": [
+    "Northern Iowa Panthers",
+    "Michigan State Spartans"
+   ],
+   "eslug": "cbb-niowa-mst-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-ncc-librty-2026-11-13",
+   "market_id": "6767036",
+   "tokens": [
+    "96104393277327485511486932542600911322665149688795761741379818951927716813059",
+    "27925933609685430066101719047255213830101840537210541266836997902715922187025"
+   ],
+   "token": "27925933609685430066101719047255213830101840537210541266836997902715922187025",
+   "fav": "Liberty Flames",
+   "pregame": 0.945,
+   "start": 1794616200.0,
+   "start_et": "2026-11-13 19:30:00 EST",
+   "url": "https://polymarket.com/event/cbb-ncc-librty-2026-11-13",
+   "league": "NCAAB",
+   "title": "North Carolina Central Eagles vs. Liberty Flames",
+   "outcomes": [
+    "North Carolina Central Eagles",
+    "Liberty Flames"
+   ],
+   "eslug": "cbb-ncc-librty-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-wbd-tcu-2026-11-13",
+   "market_id": "6767026",
+   "tokens": [
+    "15441115907596043535506105602117516733974401469511519699914422617681716296345",
+    "14091884569653355755840156527711485696300075916905694899524950087271262835298"
+   ],
+   "token": "14091884569653355755840156527711485696300075916905694899524950087271262835298",
+   "fav": "TCU Horned Frogs",
+   "pregame": 0.975,
+   "start": 1794618000.0,
+   "start_et": "2026-11-13 20:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-wbd-tcu-2026-11-13",
+   "league": "NCAAB",
+   "title": "Milwaukee Panthers vs. TCU Horned Frogs",
+   "outcomes": [
+    "Milwaukee Panthers",
+    "TCU Horned Frogs"
+   ],
+   "eslug": "cbb-wbd-tcu-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-cark-ark-2026-11-13",
+   "market_id": "6767027",
+   "tokens": [
+    "104397656078348138915950789944031685891215911314564643443053997171590956238570",
+    "24803979198955091691770105607116881919746288353713995738371750101452584102135"
+   ],
+   "token": "24803979198955091691770105607116881919746288353713995738371750101452584102135",
+   "fav": "Arkansas Razorbacks",
+   "pregame": 0.9875,
+   "start": 1794618000.0,
+   "start_et": "2026-11-13 20:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-cark-ark-2026-11-13",
+   "league": "NCAAB",
+   "title": "Central Arkansas Bears vs. Arkansas Razorbacks",
+   "outcomes": [
+    "Central Arkansas Bears",
+    "Arkansas Razorbacks"
+   ],
+   "eslug": "cbb-cark-ark-2026-11-13",
+   "screened_et": "2026-11-13 08:15:36 EST",
+   "screened_at": 1794575692.6007848,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  }
+ ]
+}

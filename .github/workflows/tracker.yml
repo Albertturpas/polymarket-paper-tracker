@@ -1,0 +1,172 @@
+name: paper-tracker
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-tracker
+  cancel-in-progress: false
+
+env:
+  TZ: America/New_York
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check public Polymarket APIs
+        run: |
+          set -euo pipefail
+          gamma_ok=0
+          for i in 1 2 3; do
+            code=$(curl -sS -m 30 -o /tmp/gamma.json -w "%{http_code}" -A "Mozilla/5.0" \
+              "https://gamma-api.polymarket.com/markets?limit=1" || true)
+            echo "gamma attempt ${i} http=${code}"
+            if [ "$code" = "200" ]; then
+              gamma_ok=1
+              break
+            fi
+            sleep 2
+          done
+          test "$gamma_ok" = "1"
+          python3 -c 'import json; d=json.load(open("/tmp/gamma.json")); assert isinstance(d, list) and d'
+
+          clob_ok=0
+          for i in 1 2 3; do
+            code=$(curl -sS -m 30 -o /tmp/clob.txt -w "%{http_code}" -A "Mozilla/5.0" \
+              "https://clob.polymarket.com/time" || true)
+            echo "clob attempt ${i} http=${code}"
+            if [ "$code" = "200" ]; then
+              clob_ok=1
+              break
+            fi
+            sleep 2
+          done
+          test "$clob_ok" = "1"
+          echo "polymarket public APIs reachable"
+
+      - name: Daily screen
+        run: python3 lean_maybe_screen.py
+
+      - name: Snapshot new-bet log
+        id: bets
+        run: |
+          set -euo pipefail
+          mkdir -p logs
+          if [ -f logs/new_bets.jsonl ]; then
+            bytes=$(wc -c < logs/new_bets.jsonl | tr -d '[:space:]')
+          else
+            bytes=0
+          fi
+          echo "offset=${bytes}" >> "$GITHUB_OUTPUT"
+
+      - name: Tick
+        run: python3 lean_tick.py
+
+      - name: Show tracker logs
+        if: always()
+        run: |
+          echo "---- lean_screen.log ----"
+          tail -n 40 logs/lean_screen.log 2>/dev/null || echo "(none)"
+          echo "---- lean_check.log ----"
+          tail -n 80 logs/lean_check.log 2>/dev/null || echo "(none)"
+
+      - name: Buy ping
+        env:
+          BUY_WEBHOOK_URL: ${{ secrets.BUY_WEBHOOK_URL }}
+          BET_OFFSET: ${{ steps.bets.outputs.offset }}
+        run: |
+          set -euo pipefail
+          if [ -z "${BUY_WEBHOOK_URL}" ]; then
+            exit 0
+          fi
+          if [ ! -f logs/new_bets.jsonl ]; then
+            exit 0
+          fi
+          python3 - "$BET_OFFSET" << 'PY'
+          import sys
+          offset = int(sys.argv[1] or "0")
+          data = open("logs/new_bets.jsonl", "rb").read()
+          if offset < 0 or offset > len(data):
+              offset = len(data)
+          new = data[offset:].decode("utf-8", "replace")
+          lines = [ln for ln in new.splitlines() if ln.strip()]
+          open("/tmp/new_bets_this_run.jsonl", "w").write(
+              ("\n".join(lines) + "\n") if lines else ""
+          )
+          print(f"buy ping lines={len(lines)}")
+          PY
+          if [ ! -s /tmp/new_bets_this_run.jsonl ]; then
+            exit 0
+          fi
+          while IFS= read -r line || [ -n "$line" ]; do
+            [ -z "$line" ] && continue
+            printf '%s' "$line" | curl -sS -m 20 -X POST \
+              -H "Content-Type: application/json" \
+              --data-binary @- \
+              "$BUY_WEBHOOK_URL" >/dev/null 2>/dev/null \
+              || echo "buy webhook failed (ignored)"
+          done < /tmp/new_bets_this_run.jsonl
+
+      - name: Commit state
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p logs
+          shopt -s nullglob
+          for f in logs/*.log; do
+            tail -n 200 "$f" > "$f.tmp"
+            mv "$f.tmp" "$f"
+          done
+          if [ -f logs/new_bets.jsonl ]; then
+            tail -n 500 logs/new_bets.jsonl > logs/new_bets.jsonl.tmp
+            mv logs/new_bets.jsonl.tmp logs/new_bets.jsonl
+          fi
+
+          git add -- lean_watch.json paper_state.json paper_trades.csv logs
+          if [ -f screen_state.json ]; then
+            git add -- screen_state.json
+          fi
+
+          if git diff --cached --quiet; then
+            echo "no state changes to commit"
+            exit 0
+          fi
+
+          git commit -m "tracker: update paper state"
+
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "pushed state"
+              exit 0
+            fi
+            echo "push failed, rebasing (attempt ${i})"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "rebase conflict"
+              git rebase --abort || true
+              exit 1
+            fi
+            sleep $((i * 2))
+          done
+          echo "push failed after retries"
+          exit 1
