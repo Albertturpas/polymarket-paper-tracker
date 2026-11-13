@@ -1,20 +1,5 @@
 {
  "games": {
-  "itf-liu2-orsani1-2026-11-10": {
-   "title": "M15 Naples, FL: LUCCA LIU vs Balthazar Orsanic",
-   "league": "ITF",
-   "start": 1794322800.0,
-   "market_id": "6920885",
-   "fav": "LUCCA LIU",
-   "token": "60816801329722131658949952229487483343990038946405071956313038094752936650904",
-   "pregame": 0.935,
-   "recorded": 1794323523.3262415,
-   "recorded_et": "2026-11-10 10:12:03 EST",
-   "url": "https://polymarket.com/event/itf-liu2-orsani1-2026-11-10",
-   "bet": false,
-   "settled": false,
-   "below_since": null
-  },
   "itf-armas1-casano1-2026-11-10": {
    "title": "M15 Roldan: Ignacio De Armas vs Hernan Casanova",
    "league": "ITF",
@@ -681,6 +666,6 @@
    "below_since": null
   }
  },
- "last_run_et": "2026-11-13 09:52:27 EST",
- "last_lean_check_et": "2026-11-13 09:52:27 EST"
+ "last_run_et": "2026-11-13 10:36:18 EST",
+ "last_lean_check_et": "2026-11-13 10:36:18 EST"
 }

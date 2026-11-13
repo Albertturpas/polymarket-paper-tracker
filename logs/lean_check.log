@@ -1,0 +1,3 @@
+2026-11-13 10:36:17 EST start check
+2026-11-13 10:36:18 EST done {"watch": 15, "recorded_pregame": 0, "live_checked": 1, "new_bets": 0, "settlements": 0, "open_bets": 0}
+{"event": "lean_check", "ok": true, "paper": true, "run_et": "2026-11-13 10:36:18 EST", "watch": 15, "recorded_pregame": 0, "live_checked": 1, "new_bets": 0, "settlements": 0, "open_bets": 0, "errors": []}
