@@ -1,68 +1,11 @@
 {
- "updated_et": "2026-11-13 20:26:52 EST",
- "updated_at": 1794619612.701778,
- "count": 15,
+ "updated_et": "2026-11-14 02:46:13 EST",
+ "updated_at": 1794642373.2777438,
+ "count": 13,
  "by_league": {
-  "Counter-Strike": 1,
-  "ITF": 1,
   "NCAAB": 13
  },
  "games": [
-  {
-   "key": "cs2-4m1-all-2026-11-13",
-   "market_id": "7000311",
-   "tokens": [
-    "94144843066875106499058819890753907335676916682719729952686235359946674472741",
-    "100857146138753677752032272779286062624566873783057776565204394110302792041209"
-   ],
-   "token": "100857146138753677752032272779286062624566873783057776565204394110302792041209",
-   "fav": "Alliance",
-   "pregame": 0.93,
-   "start": 1794578400.0,
-   "start_et": "2026-11-13 09:00:00 EST",
-   "url": "https://polymarket.com/event/cs2-4m1-all-2026-11-13",
-   "league": "Counter-Strike",
-   "title": "Counter-Strike: Four Magic vs Alliance (BO3) - ESL Challenger League Europe Cup #12 Group A",
-   "outcomes": [
-    "Four Magic",
-    "Alliance"
-   ],
-   "eslug": "cs2-4m1-all-2026-11-13",
-   "screened_et": "2026-11-13 08:15:36 EST",
-   "screened_at": 1794575692.6007848,
-   "bet": false,
-   "settled": false,
-   "recorded": true,
-   "recorded_at": 1794578356.4360158,
-   "recorded_et": "2026-11-13 08:59:16 EST",
-   "qualifies": true
-  },
-  {
-   "key": "itf-bosio2-silva7-2026-11-13",
-   "market_id": "7005534",
-   "tokens": [
-    "15318262589615930170305880562210658044923391231978269620095985619933203397920",
-    "92885871392356840267032710462479505489826841964461596518879455832459663873995"
-   ],
-   "token": "15318262589615930170305880562210658044923391231978269620095985619933203397920",
-   "fav": "Victoria Bosio",
-   "pregame": 0.905,
-   "start": 1794578400.0,
-   "start_et": "2026-11-13 09:00:00 EST",
-   "url": "https://polymarket.com/event/itf-bosio2-silva7-2026-11-13",
-   "league": "ITF",
-   "title": "W15 S\u00e3o Carlos: Victoria Bosio vs Julia Konishi Camargo Silva",
-   "outcomes": [
-    "Victoria Bosio",
-    "Julia Konishi Camargo Silva"
-   ],
-   "eslug": "itf-bosio2-silva7-2026-11-13",
-   "screened_et": "2026-11-13 08:15:36 EST",
-   "screened_at": 1794575692.6007848,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
   {
    "key": "cbb-tamu-flst-2026-11-13",
    "market_id": "6766258",
