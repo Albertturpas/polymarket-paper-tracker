@@ -1,55 +1,5 @@
 {
  "games": {
-  "itf-renner2-dias4-2026-11-12": {
-   "title": "M25 Santa Cruz do Sul: Guilherme Barbieri Renner vs Pedro Boscardin Dias",
-   "league": "ITF",
-   "start": 1794506400.0,
-   "market_id": "6979123",
-   "fav": "Pedro Boscardin Dias",
-   "token": "100212650823996802751593625494845345422188901630260798457790031444096494464876",
-   "pregame": 0.925,
-   "recorded": 1794505469.2690248,
-   "recorded_et": "2026-11-12 12:44:29 EST",
-   "url": "https://polymarket.com/event/itf-renner2-dias4-2026-11-12",
-   "bet": false,
-   "settled": false,
-   "below_since": null
-  },
-  "itf-rapolu1-gomez4-2026-11-12": {
-   "title": "W50 Chihuahua: Malaika Rapolu vs Jessica Hinojosa Gomez",
-   "league": "ITF",
-   "start": 1794517200.0,
-   "market_id": "6979220",
-   "fav": "Malaika Rapolu",
-   "token": "2558358508296506776486387711091314377407826157662845862055004375210456747237",
-   "pregame": 0.915,
-   "recorded": 1794517054.6264195,
-   "recorded_et": "2026-11-12 15:57:34 EST",
-   "url": "https://polymarket.com/event/itf-rapolu1-gomez4-2026-11-12",
-   "bet": true,
-   "settled": true,
-   "below_since": 1794525113.6376088,
-   "fill": 0.56,
-   "shares": 8.928571428571427,
-   "bet_et": "2026-11-12 18:11:56 EST",
-   "won": false,
-   "pnl": -5.0
-  },
-  "cbb-umkc-gmsn-2026-11-12": {
-   "title": "Kansas City Roos vs. George Mason Patriots",
-   "league": "NCAAB",
-   "start": 1794513600.0,
-   "market_id": "6736450",
-   "fav": "George Mason Patriots",
-   "token": "72297702162081019201221821708469095880069633119452405004445675996180647900127",
-   "pregame": 0.92,
-   "recorded": 1794517054.6264195,
-   "recorded_et": "2026-11-12 15:57:36 EST",
-   "url": "https://polymarket.com/event/cbb-umkc-gmsn-2026-11-12",
-   "bet": false,
-   "settled": false,
-   "below_since": null
-  },
   "cbb-mrcy-pennst-2026-11-12": {
    "title": "Mercyhurst Lakers vs. Penn State Nittany Lions",
    "league": "NCAAB",
@@ -531,6 +481,6 @@
    "below_since": null
   }
  },
- "last_run_et": "2026-11-15 11:39:18 EST",
- "last_lean_check_et": "2026-11-15 11:39:18 EST"
+ "last_run_et": "2026-11-15 16:15:11 EST",
+ "last_lean_check_et": "2026-11-15 16:15:11 EST"
 }
