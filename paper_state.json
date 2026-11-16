@@ -1,35 +1,5 @@
 {
  "games": {
-  "cbb-mrcy-pennst-2026-11-12": {
-   "title": "Mercyhurst Lakers vs. Penn State Nittany Lions",
-   "league": "NCAAB",
-   "start": 1794526200.0,
-   "market_id": "6736446",
-   "fav": "Penn State Nittany Lions",
-   "token": "45134546325433566880716469047979623953652515732076074869665784037102872829872",
-   "pregame": 0.9645,
-   "recorded": 1794525113.6376088,
-   "recorded_et": "2026-11-12 18:11:53 EST",
-   "url": "https://polymarket.com/event/cbb-mrcy-pennst-2026-11-12",
-   "bet": false,
-   "settled": false,
-   "below_since": null
-  },
-  "cbb-tentch-ind-2026-11-12": {
-   "title": "Tennessee Tech Golden Eagles vs. Indiana Hoosiers",
-   "league": "NCAAB",
-   "start": 1794526200.0,
-   "market_id": "6736447",
-   "fav": "Indiana Hoosiers",
-   "token": "27921455033660382979989599840245449998324548015554410848982457578591417141626",
-   "pregame": 0.9785,
-   "recorded": 1794525113.6376088,
-   "recorded_et": "2026-11-12 18:11:54 EST",
-   "url": "https://polymarket.com/event/cbb-tentch-ind-2026-11-12",
-   "bet": false,
-   "settled": false,
-   "below_since": null
-  },
   "cs2-4m1-all-2026-11-13": {
    "title": "Counter-Strike: Four Magic vs Alliance (BO3) - ESL Challenger League Europe Cup #12 Group A",
    "league": "Counter-Strike",
@@ -481,6 +451,6 @@
    "below_since": null
   }
  },
- "last_run_et": "2026-11-15 16:15:11 EST",
- "last_lean_check_et": "2026-11-15 16:15:11 EST"
+ "last_run_et": "2026-11-15 20:03:50 EST",
+ "last_lean_check_et": "2026-11-15 20:03:50 EST"
 }
