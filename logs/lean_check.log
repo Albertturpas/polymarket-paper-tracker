@@ -37,3 +37,6 @@
 2026-11-19 07:53:47 EST start check
 2026-11-19 07:53:48 EST done {"watch": 15, "recorded_pregame": 0, "live_checked": 0, "new_bets": 0, "settlements": 0, "open_bets": 0}
 {"event": "lean_check", "ok": true, "paper": true, "run_et": "2026-11-19 07:53:48 EST", "watch": 15, "recorded_pregame": 0, "live_checked": 0, "new_bets": 0, "settlements": 0, "open_bets": 0, "errors": []}
+2026-11-19 16:01:54 EST start check
+2026-11-19 16:01:54 EST done {"watch": 5, "recorded_pregame": 0, "live_checked": 0, "new_bets": 0, "settlements": 0, "open_bets": 0}
+{"event": "lean_check", "ok": true, "paper": true, "run_et": "2026-11-19 16:01:54 EST", "watch": 5, "recorded_pregame": 0, "live_checked": 0, "new_bets": 0, "settlements": 0, "open_bets": 0, "errors": []}
