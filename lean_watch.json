@@ -1,137 +1,398 @@
 {
- "updated_et": "2026-11-19 16:01:54 EST",
- "updated_at": 1795122114.5707965,
- "count": 5,
+ "updated_et": "2026-11-20 19:02:57 EST",
+ "updated_at": 1795219346.7013683,
+ "count": 15,
  "by_league": {
-  "ITF": 5
+  "NCAAB": 7,
+  "CFB": 8
  },
  "games": [
   {
-   "key": "itf-arzhan1-alfano1-2026-11-19",
-   "market_id": "7150113",
+   "key": "cbb-camp-kanst-2026-11-20",
+   "market_id": "6998363",
    "tokens": [
-    "67815281784192792313243175837548045573659857981717836244947445329909773883560",
-    "103066124419848771660853755839283676959519788113283802331908620843546863883423"
+    "104098735678528131389707169793531286276370866288056032356640997961362853908026",
+    "77349192431449600932804211461794302011646627849822449568942983612096497893817"
    ],
-   "token": "67815281784192792313243175837548045573659857981717836244947445329909773883560",
-   "fav": "Anton Arzhankin",
-   "pregame": 0.935,
-   "start": 1795080600.0,
-   "start_et": "2026-11-19 04:30:00 EST",
-   "url": "https://polymarket.com/event/itf-arzhan1-alfano1-2026-11-19",
-   "league": "ITF",
-   "title": "M15 Sharm ElSheikh: Anton Arzhankin vs Filippo Alfano",
-   "outcomes": [
-    "Anton Arzhankin",
-    "Filippo Alfano"
-   ],
-   "eslug": "itf-arzhan1-alfano1-2026-11-19",
-   "screened_et": "2026-11-18 23:07:33 EST",
-   "screened_at": 1795061208.7559936,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-guth1-masiia1-2026-11-19",
-   "market_id": "7150652",
-   "tokens": [
-    "44289589239551982402573765720911562122800314340425576200547467423133206324396",
-    "51219999067472489743313781511457223533847271044716906355106242964408041594622"
-   ],
-   "token": "44289589239551982402573765720911562122800314340425576200547467423133206324396",
-   "fav": "Mara Guth",
+   "token": "77349192431449600932804211461794302011646627849822449568942983612096497893817",
+   "fav": "Kansas State Wildcats",
    "pregame": 0.925,
-   "start": 1795080600.0,
-   "start_et": "2026-11-19 04:30:00 EST",
-   "url": "https://polymarket.com/event/itf-guth1-masiia1-2026-11-19",
-   "league": "ITF",
-   "title": "W15 Monastir: Mara Guth vs Mariia Masiianskaia",
+   "start": 1795222800.0,
+   "start_et": "2026-11-20 20:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-camp-kanst-2026-11-20",
+   "league": "NCAAB",
+   "title": "Campbell Fighting Camels vs. Kansas State Wildcats",
    "outcomes": [
-    "Mara Guth",
-    "Mariia Masiianskaia"
+    "Campbell Fighting Camels",
+    "Kansas State Wildcats"
    ],
-   "eslug": "itf-guth1-masiia1-2026-11-19",
-   "screened_et": "2026-11-18 23:07:33 EST",
-   "screened_at": 1795061208.7559936,
+   "eslug": "cbb-camp-kanst-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "itf-haavis1-rus1-2026-11-19",
-   "market_id": "7151420",
+   "key": "cbb-lemyn-missr-2026-11-20",
+   "market_id": "6998375",
    "tokens": [
-    "85230097158634068626160187102565154821896768132192518958862811220397672150633",
-    "80537453274272322202534505989745682295224258373122425179156322454785332202454"
+    "101613288291301720436247799542998819099159344491359227961574610340977316266968",
+    "105291478065992753695051728435560307783806196588510046202304917797707826083240"
    ],
-   "token": "80537453274272322202534505989745682295224258373122425179156322454785332202454",
-   "fav": "Arantxa Rus",
-   "pregame": 0.93,
-   "start": 1795082400.0,
-   "start_et": "2026-11-19 05:00:00 EST",
-   "url": "https://polymarket.com/event/itf-haavis1-rus1-2026-11-19",
-   "league": "ITF",
-   "title": "W50 Funchal: Ella Haavisto vs Arantxa Rus",
+   "token": "105291478065992753695051728435560307783806196588510046202304917797707826083240",
+   "fav": "Missouri Tigers",
+   "pregame": 0.9875,
+   "start": 1795222800.0,
+   "start_et": "2026-11-20 20:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-lemyn-missr-2026-11-20",
+   "league": "NCAAB",
+   "title": "Le Moyne Dolphins vs. Missouri Tigers",
    "outcomes": [
-    "Ella Haavisto",
-    "Arantxa Rus"
+    "Le Moyne Dolphins",
+    "Missouri Tigers"
    ],
-   "eslug": "itf-haavis1-rus1-2026-11-19",
-   "screened_et": "2026-11-18 23:07:33 EST",
-   "screened_at": 1795061208.7559936,
+   "eslug": "cbb-lemyn-missr-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "itf-kubare1-ivanov5-2026-11-19",
-   "market_id": "7153878",
+   "key": "cbb-ucf-vand-2026-11-20",
+   "market_id": "6998388",
    "tokens": [
-    "56465801961370782071746214496815180782890566690641912170685869137357300233429",
-    "58039922244794307829600727805754919467921640313250044214361585653433777690219"
+    "63394863521512407792863352028100366459940584338922299820758674928078439108732",
+    "109238296634392253325263219332850106635557189479245006871205009648565468137539"
    ],
-   "token": "56465801961370782071746214496815180782890566690641912170685869137357300233429",
-   "fav": "Anna Kubareva",
+   "token": "109238296634392253325263219332850106635557189479245006871205009648565468137539",
+   "fav": "Vanderbilt Commodores",
+   "pregame": 0.935,
+   "start": 1795222800.0,
+   "start_et": "2026-11-20 20:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-ucf-vand-2026-11-20",
+   "league": "NCAAB",
+   "title": "UCF Knights vs. Vanderbilt Commodores",
+   "outcomes": [
+    "UCF Knights",
+    "Vanderbilt Commodores"
+   ],
+   "eslug": "cbb-ucf-vand-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-sala-smu-2026-11-20",
+   "market_id": "6998411",
+   "tokens": [
+    "89597875735412718104874041132207511047430954296255246959613466017452030197334",
+    "28986355674313644215969528678052737732536770319346660913400846669376894614594"
+   ],
+   "token": "28986355674313644215969528678052737732536770319346660913400846669376894614594",
+   "fav": "SMU Mustangs",
+   "pregame": 0.925,
+   "start": 1795222800.0,
+   "start_et": "2026-11-20 20:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-sala-smu-2026-11-20",
+   "league": "NCAAB",
+   "title": "South Alabama Jaguars vs. SMU Mustangs",
+   "outcomes": [
+    "South Alabama Jaguars",
+    "SMU Mustangs"
+   ],
+   "eslug": "cbb-sala-smu-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-utep-airf-2026-11-20",
+   "market_id": "6821179",
+   "tokens": [
+    "64611345521776996976790955179173180907605285044361433131128676071450138625205",
+    "64342079755927326265739721050790247366553737060958980717810656507894801022493"
+   ],
+   "token": "64342079755927326265739721050790247366553737060958980717810656507894801022493",
+   "fav": "Air Force",
+   "pregame": 0.935,
+   "start": 1795222800.0,
+   "start_et": "2026-11-20 20:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-utep-airf-2026-11-20",
+   "league": "CFB",
+   "title": "UTEP vs. Air Force",
+   "outcomes": [
+    "UTEP",
+    "Air Force"
+   ],
+   "eslug": "cfb-utep-airf-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-eill-ill-2026-11-20",
+   "market_id": "6998360",
+   "tokens": [
+    "50871056431025717969529103450632213840768839484410631045878967475661200465273",
+    "66152379747899321118482776704869084499206807441222561949919115602494901445659"
+   ],
+   "token": "66152379747899321118482776704869084499206807441222561949919115602494901445659",
+   "fav": "Illinois Fighting Illini",
+   "pregame": 0.9945,
+   "start": 1795226400.0,
+   "start_et": "2026-11-20 21:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-eill-ill-2026-11-20",
+   "league": "NCAAB",
+   "title": "Eastern Illinois Panthers vs. Illinois Fighting Illini",
+   "outcomes": [
+    "Eastern Illinois Panthers",
+    "Illinois Fighting Illini"
+   ],
+   "eslug": "cbb-eill-ill-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-marsh-ncar-2026-11-20",
+   "market_id": "6998361",
+   "tokens": [
+    "14340685398231897804410765220033614934176125977261392937871153675885296141948",
+    "55549161695654526587399698584581551926008264509512136803106267895325012494452"
+   ],
+   "token": "55549161695654526587399698584581551926008264509512136803106267895325012494452",
+   "fav": "North Carolina Tar Heels",
+   "pregame": 0.9445,
+   "start": 1795226400.0,
+   "start_et": "2026-11-20 21:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-marsh-ncar-2026-11-20",
+   "league": "NCAAB",
+   "title": "Marshall Thundering Herd vs. North Carolina Tar Heels",
+   "outcomes": [
+    "Marshall Thundering Herd",
+    "North Carolina Tar Heels"
+   ],
+   "eslug": "cbb-marsh-ncar-2026-11-20",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-furman-vamil-2026-11-21",
+   "market_id": "6821335",
+   "tokens": [
+    "61883738925300279573151121924758197814321527591709507920623491120845166139656",
+    "24122736353067378112411615216521966456641989567823302547337645737462755199659"
+   ],
+   "token": "61883738925300279573151121924758197814321527591709507920623491120845166139656",
+   "fav": "Furman",
    "pregame": 0.92,
-   "start": 1795084200.0,
-   "start_et": "2026-11-19 05:30:00 EST",
-   "url": "https://polymarket.com/event/itf-kubare1-ivanov5-2026-11-19",
-   "league": "ITF",
-   "title": "W15 Sharm ElSheikh: Anna Kubareva vs Iva Ivanovic",
+   "start": 1795280400.0,
+   "start_et": "2026-11-21 12:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-furman-vamil-2026-11-21",
+   "league": "CFB",
+   "title": "Furman vs. VMI",
    "outcomes": [
-    "Anna Kubareva",
-    "Iva Ivanovic"
+    "Furman",
+    "VMI"
    ],
-   "eslug": "itf-kubare1-ivanov5-2026-11-19",
-   "screened_et": "2026-11-18 23:07:33 EST",
-   "screened_at": 1795061208.7559936,
+   "eslug": "cfb-furman-vamil-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "itf-komano1-iliev1-2026-11-19",
-   "market_id": "7147783",
+   "key": "cfb-woff-miss-2026-11-21",
+   "market_id": "6821400",
    "tokens": [
-    "63119298211018028212122118647690119962464385277138902420248247655836634182059",
-    "53141205252221256409862312279479028572682092173659240872869514985407878629917"
+    "97969485677316504679094826822353770528032968183705875368507907800886993403979",
+    "51784636171987724434325217805103784863340131975218985952506726218651636235060"
    ],
-   "token": "53141205252221256409862312279479028572682092173659240872869514985407878629917",
-   "fav": "Sarah Iliev",
-   "pregame": 0.91,
-   "start": 1795086000.0,
-   "start_et": "2026-11-19 06:00:00 EST",
-   "url": "https://polymarket.com/event/itf-komano1-iliev1-2026-11-19",
-   "league": "ITF",
-   "title": "W15 Paris: Margaux Komano vs Sarah Iliev",
+   "token": "51784636171987724434325217805103784863340131975218985952506726218651636235060",
+   "fav": "Ole Miss",
+   "pregame": 0.994,
+   "start": 1795280400.0,
+   "start_et": "2026-11-21 12:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-woff-miss-2026-11-21",
+   "league": "CFB",
+   "title": "Wofford vs. Ole Miss",
    "outcomes": [
-    "Margaux Komano",
-    "Sarah Iliev"
+    "Wofford",
+    "Ole Miss"
    ],
-   "eslug": "itf-komano1-iliev1-2026-11-19",
-   "screened_et": "2026-11-18 23:07:33 EST",
-   "screened_at": 1795061208.7559936,
+   "eslug": "cfb-woff-miss-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-hamp-stbr-2026-11-21",
+   "market_id": "6821460",
+   "tokens": [
+    "100103976474284208618107088719071632047184614715801711079631119134496901719108",
+    "64231802463575464320122575346805778294400057881288585600782863114592707589357"
+   ],
+   "token": "64231802463575464320122575346805778294400057881288585600782863114592707589357",
+   "fav": "Stony Brook",
+   "pregame": 0.92,
+   "start": 1795280400.0,
+   "start_et": "2026-11-21 12:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-hamp-stbr-2026-11-21",
+   "league": "CFB",
+   "title": "Hampton vs. Stony Brook",
+   "outcomes": [
+    "Hampton",
+    "Stony Brook"
+   ],
+   "eslug": "cfb-hamp-stbr-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-wake-gtech-2026-11-21",
+   "market_id": "6821724",
+   "tokens": [
+    "8726494387121347396016795951931026409123433555562683580047372559285683196381",
+    "9041931714288308203446862378107418640852144816260158151931942178437821867424"
+   ],
+   "token": "8726494387121347396016795951931026409123433555562683580047372559285683196381",
+   "fav": "Wake Forest",
+   "pregame": 0.905,
+   "start": 1795280400.0,
+   "start_et": "2026-11-21 12:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-wake-gtech-2026-11-21",
+   "league": "CFB",
+   "title": "Wake Forest vs. Georgia Tech",
+   "outcomes": [
+    "Wake Forest",
+    "Georgia Tech"
+   ],
+   "eslug": "cfb-wake-gtech-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-queen-lsu-2026-11-21",
+   "market_id": "6998448",
+   "tokens": [
+    "24830307801762191107816216885193414125983137963207150879480186287201403838479",
+    "33063756121505770442985409315351793099225151253479237183475666107580390429728"
+   ],
+   "token": "33063756121505770442985409315351793099225151253479237183475666107580390429728",
+   "fav": "LSU Tigers",
+   "pregame": 0.975,
+   "start": 1795284000.0,
+   "start_et": "2026-11-21 13:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-queen-lsu-2026-11-21",
+   "league": "NCAAB",
+   "title": "Queens (NC) Royals vs. LSU Tigers",
+   "outcomes": [
+    "Queens (NC) Royals",
+    "LSU Tigers"
+   ],
+   "eslug": "cbb-queen-lsu-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-gtwn-vill-2026-11-21",
+   "market_id": "6821723",
+   "tokens": [
+    "79117272446956584749075464436496043103170068536970968939300781683841330388236",
+    "67512295038768250904591978848247972119800388469239859279012438944098034121"
+   ],
+   "token": "67512295038768250904591978848247972119800388469239859279012438944098034121",
+   "fav": "Villanova",
+   "pregame": 0.915,
+   "start": 1795284000.0,
+   "start_et": "2026-11-21 13:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-gtwn-vill-2026-11-21",
+   "league": "CFB",
+   "title": "Georgetown vs. Villanova",
+   "outcomes": [
+    "Georgetown",
+    "Villanova"
+   ],
+   "eslug": "cfb-gtwn-vill-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-more-but-2026-11-21",
+   "market_id": "6822914",
+   "tokens": [
+    "101567384140988709152502600073864904388459045618488861089217712475790740290285",
+    "80497611145898562489147023948820115797616867618706958048462091179555369146656"
+   ],
+   "token": "80497611145898562489147023948820115797616867618706958048462091179555369146656",
+   "fav": "Butler",
+   "pregame": 0.955,
+   "start": 1795284000.0,
+   "start_et": "2026-11-21 13:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-more-but-2026-11-21",
+   "league": "CFB",
+   "title": "Morehead State vs. Butler",
+   "outcomes": [
+    "Morehead State",
+    "Butler"
+   ],
+   "eslug": "cfb-more-but-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cfb-tentch-mspst-2026-11-21",
+   "market_id": "6823389",
+   "tokens": [
+    "114171335754361631418805852626378362109794322301316485645818928216213409898396",
+    "66098981582673390113251529683851553193535974246791703922272270283910942381165"
+   ],
+   "token": "66098981582673390113251529683851553193535974246791703922272270283910942381165",
+   "fav": "Mississippi State",
+   "pregame": 0.9455,
+   "start": 1795284000.0,
+   "start_et": "2026-11-21 13:00:00 EST",
+   "url": "https://polymarket.com/event/cfb-tentch-mspst-2026-11-21",
+   "league": "CFB",
+   "title": "Tennessee Tech vs. Mississippi State",
+   "outcomes": [
+    "Tennessee Tech",
+    "Mississippi State"
+   ],
+   "eslug": "cfb-tentch-mspst-2026-11-21",
+   "screened_et": "2026-11-20 19:02:57 EST",
+   "screened_at": 1795219346.7013683,
    "bet": false,
    "settled": false,
    "recorded": false
