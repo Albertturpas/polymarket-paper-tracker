@@ -1,398 +1,398 @@
 {
- "updated_et": "2026-11-24 19:39:08 EST",
- "updated_at": 1795567124.2903955,
+ "updated_et": "2026-11-25 21:10:00 EST",
+ "updated_at": 1795658971.9844546,
  "count": 15,
  "by_league": {
-  "NCAAB": 8,
-  "ITF": 7
+  "ITF": 13,
+  "NCAAB": 2
  },
  "games": [
   {
-   "key": "cbb-cmich-nd-2026-11-24",
-   "market_id": "6998585",
+   "key": "itf-singh3-krivos1-2026-11-26",
+   "market_id": "7342264",
    "tokens": [
-    "17713394566731323951270537731480969242120791654078988146906000146077205576267",
-    "46012199892035993065481735069621747349195776974588020249706228076415337162592"
+    "49933667508831935552165951086589071256749887709190038579336434556233071418718",
+    "40669620674575880654849575802027716899888140523091667458442125335108585612332"
    ],
-   "token": "46012199892035993065481735069621747349195776974588020249706228076415337162592",
-   "fav": "Notre Dame Fighting Irish",
-   "pregame": 0.9665,
-   "start": 1795568400.0,
-   "start_et": "2026-11-24 20:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-cmich-nd-2026-11-24",
-   "league": "NCAAB",
-   "title": "Central Michigan Chippewas vs. Notre Dame Fighting Irish",
+   "token": "49933667508831935552165951086589071256749887709190038579336434556233071418718",
+   "fav": "Karan Singh",
+   "pregame": 0.92,
+   "start": 1795667400.0,
+   "start_et": "2026-11-25 23:30:00 EST",
+   "url": "https://polymarket.com/event/itf-singh3-krivos1-2026-11-26",
+   "league": "ITF",
+   "title": "M25 Bhopal: Karan Singh vs Makar Krivoshchekov",
    "outcomes": [
-    "Central Michigan Chippewas",
-    "Notre Dame Fighting Irish"
+    "Karan Singh",
+    "Makar Krivoshchekov"
    ],
-   "eslug": "cbb-cmich-nd-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
+   "eslug": "itf-singh3-krivos1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "cbb-lipsc-aubrn-2026-11-24",
-   "market_id": "6998615",
+   "key": "cbb-incar-hawaii-2026-11-25",
+   "market_id": "6998743",
    "tokens": [
-    "92734542626068417578494630592195668388202087760114560725244195434338623073743",
-    "101822985494330195469720026316276249721743935653248087808876505049940600610744"
+    "7892262397327107355605406240791883304069415213704342405052061714510876946569",
+    "31673976815514623020231330584179272060486798034636985055461212736025489191065"
    ],
-   "token": "101822985494330195469720026316276249721743935653248087808876505049940600610744",
-   "fav": "Auburn Tigers",
-   "pregame": 0.9805,
-   "start": 1795568400.0,
-   "start_et": "2026-11-24 20:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-lipsc-aubrn-2026-11-24",
-   "league": "NCAAB",
-   "title": "Lipscomb Bisons vs. Auburn Tigers",
-   "outcomes": [
-    "Lipscomb Bisons",
-    "Auburn Tigers"
-   ],
-   "eslug": "cbb-lipsc-aubrn-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "cbb-flam-sala-2026-11-24",
-   "market_id": "6998670",
-   "tokens": [
-    "33104809774461519706470990991129718918770653707119269521569895435505660884901",
-    "83419693610485290349192830695540763143681824029692419458999740944818875922192"
-   ],
-   "token": "83419693610485290349192830695540763143681824029692419458999740944818875922192",
-   "fav": "South Alabama Jaguars",
+   "token": "31673976815514623020231330584179272060486798034636985055461212736025489191065",
+   "fav": "Hawaii Rainbow Warriors",
    "pregame": 0.935,
-   "start": 1795568400.0,
-   "start_et": "2026-11-24 20:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-flam-sala-2026-11-24",
+   "start": 1795669140.0,
+   "start_et": "2026-11-25 23:59:00 EST",
+   "url": "https://polymarket.com/event/cbb-incar-hawaii-2026-11-25",
    "league": "NCAAB",
-   "title": "Florida A&M Rattlers vs. South Alabama Jaguars",
+   "title": "Incarnate Word Cardinals vs. Hawaii Rainbow Warriors",
    "outcomes": [
-    "Florida A&M Rattlers",
-    "South Alabama Jaguars"
+    "Incarnate Word Cardinals",
+    "Hawaii Rainbow Warriors"
    ],
-   "eslug": "cbb-flam-sala-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
+   "eslug": "cbb-incar-hawaii-2026-11-25",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "cbb-ncashe-flst-2026-11-24",
-   "market_id": "6998586",
+   "key": "itf-nugroh1-mikhai1-2026-11-26",
+   "market_id": "7342359",
    "tokens": [
-    "71677030498503526909802358317405262103157425646007018523160793762079680588214",
-    "37371054002496135617301777117937124623893051871468421149131394786987807412973"
+    "37362347181392862625282868151804799598186742457457286138701702173882570597597",
+    "108094901656881173708211833109508826361166481106748080096996729853592658493294"
    ],
-   "token": "37371054002496135617301777117937124623893051871468421149131394786987807412973",
-   "fav": "Florida State Seminoles",
-   "pregame": 0.991,
-   "start": 1795572000.0,
-   "start_et": "2026-11-24 21:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-ncashe-flst-2026-11-24",
-   "league": "NCAAB",
-   "title": "UNC Asheville Bulldogs vs. Florida State Seminoles",
-   "outcomes": [
-    "UNC Asheville Bulldogs",
-    "Florida State Seminoles"
-   ],
-   "eslug": "cbb-ncashe-flst-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "cbb-idhst-boise-2026-11-24",
-   "market_id": "6998637",
-   "tokens": [
-    "46550397673835810196550014777423752572510884639389169210799344558651522113889",
-    "99770987591970014211478590878821362071591026465859538538736694386386964005604"
-   ],
-   "token": "99770987591970014211478590878821362071591026465859538538736694386386964005604",
-   "fav": "Boise State Broncos",
-   "pregame": 0.9545,
-   "start": 1795572000.0,
-   "start_et": "2026-11-24 21:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-idhst-boise-2026-11-24",
-   "league": "NCAAB",
-   "title": "Idaho State Bengals vs. Boise State Broncos",
-   "outcomes": [
-    "Idaho State Bengals",
-    "Boise State Broncos"
-   ],
-   "eslug": "cbb-idhst-boise-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "cbb-evans-missr-2026-11-24",
-   "market_id": "6998638",
-   "tokens": [
-    "4908687304085049578589508666624256800360646804711681579989740605359067681377",
-    "60304469837771878661771255210629945231188177482217847702410793882309372435041"
-   ],
-   "token": "60304469837771878661771255210629945231188177482217847702410793882309372435041",
-   "fav": "Missouri Tigers",
-   "pregame": 0.9905,
-   "start": 1795572000.0,
-   "start_et": "2026-11-24 21:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-evans-missr-2026-11-24",
-   "league": "NCAAB",
-   "title": "Evansville Purple Aces vs. Missouri Tigers",
-   "outcomes": [
-    "Evansville Purple Aces",
-    "Missouri Tigers"
-   ],
-   "eslug": "cbb-evans-missr-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "cbb-ncg-uscb-2026-11-24",
-   "market_id": "6998650",
-   "tokens": [
-    "43948284539485615846527642092304349486379690071563313537195633339799580328376",
-    "73195656501090747298016517108873844711537775967227098982234983245807034852533"
-   ],
-   "token": "73195656501090747298016517108873844711537775967227098982234983245807034852533",
-   "fav": "UC Santa Barbara Gauchos",
-   "pregame": 0.94,
-   "start": 1795572000.0,
-   "start_et": "2026-11-24 21:00:00 EST",
-   "url": "https://polymarket.com/event/cbb-ncg-uscb-2026-11-24",
-   "league": "NCAAB",
-   "title": "UNCG Spartans vs. UC Santa Barbara Gauchos",
-   "outcomes": [
-    "UNCG Spartans",
-    "UC Santa Barbara Gauchos"
-   ],
-   "eslug": "cbb-ncg-uscb-2026-11-24",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-kanaba1-sachde3-2026-11-25",
-   "market_id": "7309366",
-   "tokens": [
-    "46345097423060120648213294953561778223369329738577372806440416055375327605686",
-    "31833944234068058886396363552732478923189302164577430005072981539544088671060"
-   ],
-   "token": "46345097423060120648213294953561778223369329738577372806440416055375327605686",
-   "fav": "Jensi Dipakbhai Kanabar",
-   "pregame": 0.94,
-   "start": 1795579200.0,
-   "start_et": "2026-11-24 23:00:00 EST",
-   "url": "https://polymarket.com/event/itf-kanaba1-sachde3-2026-11-25",
-   "league": "ITF",
-   "title": "W15 Kolkata: Jensi Dipakbhai Kanabar vs Riya Sachdeva",
-   "outcomes": [
-    "Jensi Dipakbhai Kanabar",
-    "Riya Sachdeva"
-   ],
-   "eslug": "itf-kanaba1-sachde3-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-chaura1-mukund1-2026-11-25",
-   "market_id": "7308085",
-   "tokens": [
-    "22637405052186581094959592500638066698403351830969639627255529475617775074745",
-    "86706949388605703856595284602100710076764310636716435337658770597193667192517"
-   ],
-   "token": "86706949388605703856595284602100710076764310636716435337658770597193667192517",
-   "fav": "Sasikumar Mukund",
-   "pregame": 0.915,
-   "start": 1795581000.0,
-   "start_et": "2026-11-24 23:30:00 EST",
-   "url": "https://polymarket.com/event/itf-chaura1-mukund1-2026-11-25",
-   "league": "ITF",
-   "title": "M25 Bhopal: Yash Chaurasia vs Sasikumar Mukund",
-   "outcomes": [
-    "Yash Chaurasia",
-    "Sasikumar Mukund"
-   ],
-   "eslug": "itf-chaura1-mukund1-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "cbb-gnzg-kanst-2026-11-25",
-   "market_id": "6998679",
-   "tokens": [
-    "103488454864440082186199696753649137480569331223128547331033859530225590079790",
-    "25933091149454309647200012673594401339394096450853389340491265294945337697686"
-   ],
-   "token": "103488454864440082186199696753649137480569331223128547331033859530225590079790",
-   "fav": "Gonzaga Bulldogs",
-   "pregame": 0.91,
-   "start": 1795584600.0,
-   "start_et": "2026-11-25 00:30:00 EST",
-   "url": "https://polymarket.com/event/cbb-gnzg-kanst-2026-11-25",
-   "league": "NCAAB",
-   "title": "Gonzaga Bulldogs vs. Kansas State Wildcats",
-   "outcomes": [
-    "Gonzaga Bulldogs",
-    "Kansas State Wildcats"
-   ],
-   "eslug": "cbb-gnzg-kanst-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-vincig1-heisna1-2026-11-25",
-   "market_id": "7308090",
-   "tokens": [
-    "58279304447324278107953521637941682333171120959569792368241365339989819973520",
-    "69045430797227743020629093594623158974886144627791204519975467647481665949294"
-   ],
-   "token": "58279304447324278107953521637941682333171120959569792368241365339989819973520",
-   "fav": "William Rejchtman Vinciguerra",
-   "pregame": 0.9,
-   "start": 1795584600.0,
-   "start_et": "2026-11-25 00:30:00 EST",
-   "url": "https://polymarket.com/event/itf-vincig1-heisna1-2026-11-25",
-   "league": "ITF",
-   "title": "M25 Bhopal: William Rejchtman Vinciguerra vs Shanker Heisnam",
-   "outcomes": [
-    "William Rejchtman Vinciguerra",
-    "Shanker Heisnam"
-   ],
-   "eslug": "itf-vincig1-heisna1-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-nugroh1-jadhav2-2026-11-25",
-   "market_id": "7309372",
-   "tokens": [
-    "12696675278896276980569528672062209250934422666198608848289446906111100603888",
-    "88656183510120358919530632441371591219547360985012175566025042440197720859359"
-   ],
-   "token": "12696675278896276980569528672062209250934422666198608848289446906111100603888",
+   "token": "37362347181392862625282868151804799598186742457457286138701702173882570597597",
    "fav": "Priska Madelyn Nugroho",
-   "pregame": 0.945,
-   "start": 1795591800.0,
-   "start_et": "2026-11-25 02:30:00 EST",
-   "url": "https://polymarket.com/event/itf-nugroh1-jadhav2-2026-11-25",
+   "pregame": 0.9575,
+   "start": 1795669200.0,
+   "start_et": "2026-11-26 00:00:00 EST",
+   "url": "https://polymarket.com/event/itf-nugroh1-mikhai1-2026-11-26",
    "league": "ITF",
-   "title": "W15 Kolkata: Priska Madelyn Nugroho vs Aishwarya Jadhav",
+   "title": "W15 Kolkata: Priska Madelyn Nugroho vs Maria Mikhailova",
    "outcomes": [
     "Priska Madelyn Nugroho",
-    "Aishwarya Jadhav"
+    "Maria Mikhailova"
    ],
-   "eslug": "itf-nugroh1-jadhav2-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
+   "eslug": "itf-nugroh1-mikhai1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "itf-peterh1-gelada1-2026-11-25",
-   "market_id": "7311943",
+   "key": "itf-yodpet1-fernan12-2026-11-26",
+   "market_id": "7342363",
    "tokens": [
-    "51172967916055783215649753679918049146645096601280350253606313322479425517908",
-    "42560902824918571971237194571243692796421563713967625068844013988619235635025"
+    "829101617913476373580421476400303800417651714847331507438490242534543910525",
+    "12225700046032309151926003318504124116065576314427973698094913252712581336787"
    ],
-   "token": "42560902824918571971237194571243692796421563713967625068844013988619235635025",
-   "fav": "Odysseas Geladaris",
-   "pregame": 0.905,
-   "start": 1795593600.0,
-   "start_et": "2026-11-25 03:00:00 EST",
-   "url": "https://polymarket.com/event/itf-peterh1-gelada1-2026-11-25",
+   "token": "829101617913476373580421476400303800417651714847331507438490242534543910525",
+   "fav": "Kamonwan Yodpetch",
+   "pregame": 0.925,
+   "start": 1795678200.0,
+   "start_et": "2026-11-26 02:30:00 EST",
+   "url": "https://polymarket.com/event/itf-yodpet1-fernan12-2026-11-26",
    "league": "ITF",
-   "title": "M15 Heraklion: Yanis Peterhans vs Odysseas Geladaris",
+   "title": "W15 Kolkata: Kamonwan Yodpetch vs Danica Fernando",
    "outcomes": [
-    "Yanis Peterhans",
-    "Odysseas Geladaris"
+    "Kamonwan Yodpetch",
+    "Danica Fernando"
    ],
-   "eslug": "itf-peterh1-gelada1-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
+   "eslug": "itf-yodpet1-fernan12-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "itf-todoni1-auer1-2026-11-25",
-   "market_id": "7312178",
+   "key": "itf-basile1-kontop1-2026-11-26",
+   "market_id": "7348806",
    "tokens": [
-    "100019464849659962612237622727287878477011408732832843902048669815020994180026",
-    "107381587432402066720747128660085807353222601968383335472912999475147083691283"
+    "28307950894392065081718831225547150562204013790315930689356133649054138288751",
+    "28937755568306663058463853720512843805251587384896912716979675343701695356887"
    ],
-   "token": "100019464849659962612237622727287878477011408732832843902048669815020994180026",
-   "fav": "Cristiana Nicoleta Todoni",
+   "token": "28307950894392065081718831225547150562204013790315930689356133649054138288751",
+   "fav": "Pierluigi Basile",
    "pregame": 0.92,
-   "start": 1795593600.0,
-   "start_et": "2026-11-25 03:00:00 EST",
-   "url": "https://polymarket.com/event/itf-todoni1-auer1-2026-11-25",
+   "start": 1795678200.0,
+   "start_et": "2026-11-26 02:30:00 EST",
+   "url": "https://polymarket.com/event/itf-basile1-kontop1-2026-11-26",
    "league": "ITF",
-   "title": "W15 Antalya: Cristiana Nicoleta Todoni vs Stefanie Auer",
+   "title": "M15 Heraklion: Pierluigi Basile vs Theofanis Kontopoulos",
    "outcomes": [
-    "Cristiana Nicoleta Todoni",
-    "Stefanie Auer"
+    "Pierluigi Basile",
+    "Theofanis Kontopoulos"
    ],
-   "eslug": "itf-todoni1-auer1-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
+   "eslug": "itf-basile1-kontop1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
    "bet": false,
    "settled": false,
    "recorded": false
   },
   {
-   "key": "itf-matoul1-goina1-2026-11-25",
-   "market_id": "7312182",
+   "key": "itf-sanche4-abasol1-2026-11-26",
+   "market_id": "7348807",
    "tokens": [
-    "42742586542207666180026086805826941740207336881562130444316504686951987258883",
-    "50968794473428501274177031765351842762032232626183545216750222578169421728805"
+    "75406673039384509275193757598871168950119646313660904988735226257520717885622",
+    "113567880394721823100415886949718161594549456078705704880356385700119159022764"
    ],
-   "token": "42742586542207666180026086805826941740207336881562130444316504686951987258883",
-   "fav": "Martha MATOULA",
-   "pregame": 0.94,
-   "start": 1795593600.0,
-   "start_et": "2026-11-25 03:00:00 EST",
-   "url": "https://polymarket.com/event/itf-matoul1-goina1-2026-11-25",
+   "token": "113567880394721823100415886949718161594549456078705704880356385700119159022764",
+   "fav": "Tomas Curras Abasolo",
+   "pregame": 0.95,
+   "start": 1795678200.0,
+   "start_et": "2026-11-26 02:30:00 EST",
+   "url": "https://polymarket.com/event/itf-sanche4-abasol1-2026-11-26",
    "league": "ITF",
-   "title": "W35 Heraklion: Martha MATOULA vs Patricia Georgiana Goina",
+   "title": "M15 Heraklion: Pablo De La Cierva Sanchez vs Tomas Curras Abasolo",
+   "outcomes": [
+    "Pablo De La Cierva Sanchez",
+    "Tomas Curras Abasolo"
+   ],
+   "eslug": "itf-sanche4-abasol1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-makk1-stanke1-2026-11-26",
+   "market_id": "7348811",
+   "tokens": [
+    "71316470365453236230422817511807140361735947553872187605076202055457507104527",
+    "57980454907339654210034552807290002991038968931189193552919606413206681885499"
+   ],
+   "token": "71316470365453236230422817511807140361735947553872187605076202055457507104527",
+   "fav": "Peter Makk",
+   "pregame": 0.915,
+   "start": 1795680000.0,
+   "start_et": "2026-11-26 03:00:00 EST",
+   "url": "https://polymarket.com/event/itf-makk1-stanke1-2026-11-26",
+   "league": "ITF",
+   "title": "M15 Sharm ElSheikh: Peter Makk vs Cedric Stanke",
+   "outcomes": [
+    "Peter Makk",
+    "Cedric Stanke"
+   ],
+   "eslug": "itf-makk1-stanke1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-matoul1-barbul1-2026-11-26",
+   "market_id": "7347770",
+   "tokens": [
+    "78594082694188056693057633060409216823565844831707697743605909359672344440466",
+    "110207787693017555431569952324340329630959805776354109095595018860988765337136"
+   ],
+   "token": "78594082694188056693057633060409216823565844831707697743605909359672344440466",
+   "fav": "Martha MATOULA",
+   "pregame": 0.9,
+   "start": 1795681800.0,
+   "start_et": "2026-11-26 03:30:00 EST",
+   "url": "https://polymarket.com/event/itf-matoul1-barbul1-2026-11-26",
+   "league": "ITF",
+   "title": "W35 Heraklion: Martha MATOULA vs Bianca Elena Barbulescu",
    "outcomes": [
     "Martha MATOULA",
-    "Patricia Georgiana Goina"
+    "Bianca Elena Barbulescu"
    ],
-   "eslug": "itf-matoul1-goina1-2026-11-25",
-   "screened_et": "2026-11-24 19:39:08 EST",
-   "screened_at": 1795567124.2903955,
+   "eslug": "itf-matoul1-barbul1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-rodena1-socas1-2026-11-26",
+   "market_id": "7351892",
+   "tokens": [
+    "57867326882119571162342834602905217342220327956521162180899054521879378737885",
+    "110250495485209468733328940905326922179345548414533701285295571065922268658574"
+   ],
+   "token": "57867326882119571162342834602905217342220327956521162180899054521879378737885",
+   "fav": "Pedro Rodenas",
+   "pregame": 0.925,
+   "start": 1795683600.0,
+   "start_et": "2026-11-26 04:00:00 EST",
+   "url": "https://polymarket.com/event/itf-rodena1-socas1-2026-11-26",
+   "league": "ITF",
+   "title": "M15 Madrid: Pedro Rodenas vs Roberto Perez socas",
+   "outcomes": [
+    "Pedro Rodenas",
+    "Roberto Perez socas"
+   ],
+   "eslug": "itf-rodena1-socas1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-denise1-samir1-2026-11-26",
+   "market_id": "7353293",
+   "tokens": [
+    "17918424286339722992542303701116292218574901020308177590210020702990348711099",
+    "107095325262773985430427947289329386229084383284949487327229915789243437783481"
+   ],
+   "token": "107095325262773985430427947289329386229084383284949487327229915789243437783481",
+   "fav": "Sandra Samir",
+   "pregame": 0.93,
+   "start": 1795683600.0,
+   "start_et": "2026-11-26 04:00:00 EST",
+   "url": "https://polymarket.com/event/itf-denise1-samir1-2026-11-26",
+   "league": "ITF",
+   "title": "W15 Sharm ElSheikh: Jana Denisenko vs Sandra Samir",
+   "outcomes": [
+    "Jana Denisenko",
+    "Sandra Samir"
+   ],
+   "eslug": "itf-denise1-samir1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-almeid3-firman1-2026-11-26",
+   "market_id": "7350582",
+   "tokens": [
+    "75748867162172822577758708693022856367049083044076633464591317431046752361570",
+    "30592239773794236836366634626354731698741241022974318886500153829623473616089"
+   ],
+   "token": "30592239773794236836366634626354731698741241022974318886500153829623473616089",
+   "fav": "Anastasiia Firman",
+   "pregame": 0.905,
+   "start": 1795687200.0,
+   "start_et": "2026-11-26 05:00:00 EST",
+   "url": "https://polymarket.com/event/itf-almeid3-firman1-2026-11-26",
+   "league": "ITF",
+   "title": "W15 Lousada: Sofia Almeida vs Anastasiia Firman",
+   "outcomes": [
+    "Sofia Almeida",
+    "Anastasiia Firman"
+   ],
+   "eslug": "itf-almeid3-firman1-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-semeni2-silva7-2026-11-26",
+   "market_id": "7358400",
+   "tokens": [
+    "45669007593898986792906994398267610874148952971633805698129883889529096641848",
+    "76798162044727213611188672144947848161889929255201806304069236191005891190872"
+   ],
+   "token": "45669007593898986792906994398267610874148952971633805698129883889529096641848",
+   "fav": "Darja Semenistaja",
+   "pregame": 0.94,
+   "start": 1795698000.0,
+   "start_et": "2026-11-26 08:00:00 EST",
+   "url": "https://polymarket.com/event/itf-semeni2-silva7-2026-11-26",
+   "league": "ITF",
+   "title": "W75 Florian\u00f3polis: Darja Semenistaja vs Julia Konishi Camargo Silva",
+   "outcomes": [
+    "Darja Semenistaja",
+    "Julia Konishi Camargo Silva"
+   ],
+   "eslug": "itf-semeni2-silva7-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-lago1-gaglia1-2026-11-25",
+   "market_id": "7330318",
+   "tokens": [
+    "6167464549633654583665588462660698788516698805540404199682363412806314305930",
+    "41156987145382245800315993290396414197567268379169280673812265223349163399799"
+   ],
+   "token": "41156987145382245800315993290396414197567268379169280673812265223349163399799",
+   "fav": "Lorenzo Gagliardo",
+   "pregame": 0.93,
+   "start": 1795708800.0,
+   "start_et": "2026-11-26 11:00:00 EST",
+   "url": "https://polymarket.com/event/itf-lago1-gaglia1-2026-11-25",
+   "league": "ITF",
+   "title": "M15 Santa Cruz: Joao Vitor Scramin do Lago vs Lorenzo Gagliardo",
+   "outcomes": [
+    "Joao Vitor Scramin do Lago",
+    "Lorenzo Gagliardo"
+   ],
+   "eslug": "itf-lago1-gaglia1-2026-11-25",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "itf-corsin1-monzon1-2026-11-25",
+   "market_id": "7330320",
+   "tokens": [
+    "83362576830039922360794212425043947179199036833886940325302574127180793098468",
+    "35241862198055248841980118789775528672104836810505961724166855326534520001637"
+   ],
+   "token": "35241862198055248841980118789775528672104836810505961724166855326534520001637",
+   "fav": "Ignacio Monzon",
+   "pregame": 0.925,
+   "start": 1795712400.0,
+   "start_et": "2026-11-26 12:00:00 EST",
+   "url": "https://polymarket.com/event/itf-corsin1-monzon1-2026-11-25",
+   "league": "ITF",
+   "title": "M15 Santa Cruz: Lorenzo Sverzut Corsini vs Ignacio Monzon",
+   "outcomes": [
+    "Lorenzo Sverzut Corsini",
+    "Ignacio Monzon"
+   ],
+   "eslug": "itf-corsin1-monzon1-2026-11-25",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
+   "bet": false,
+   "settled": false,
+   "recorded": false
+  },
+  {
+   "key": "cbb-kanst-ala-2026-11-26",
+   "market_id": "7339250",
+   "tokens": [
+    "34049365220635414371383064960467153280222844172625224822928553626846917940448",
+    "65154921848114942349389353858409850773724202769286376947224465174467871438747"
+   ],
+   "token": "65154921848114942349389353858409850773724202769286376947224465174467871438747",
+   "fav": "Alabama Crimson Tide",
+   "pregame": 0.9,
+   "start": 1795744800.0,
+   "start_et": "2026-11-26 21:00:00 EST",
+   "url": "https://polymarket.com/event/cbb-kanst-ala-2026-11-26",
+   "league": "NCAAB",
+   "title": "Kansas State Wildcats vs. Alabama Crimson Tide",
+   "outcomes": [
+    "Kansas State Wildcats",
+    "Alabama Crimson Tide"
+   ],
+   "eslug": "cbb-kanst-ala-2026-11-26",
+   "screened_et": "2026-11-25 21:10:00 EST",
+   "screened_at": 1795658971.9844546,
    "bet": false,
    "settled": false,
    "recorded": false
