@@ -1,91 +1,13 @@
 {
- "updated_et": "2026-11-26 21:27:11 EST",
- "updated_at": 1795746402.3048775,
- "count": 14,
+ "updated_et": "2026-11-27 14:54:14 EST",
+ "updated_at": 1795809254.458963,
+ "count": 11,
  "by_league": {
-  "ITF": 4,
+  "ITF": 1,
   "NCAAB": 9,
   "CFB": 1
  },
  "games": [
-  {
-   "key": "itf-nugroh1-rao1-2026-11-27",
-   "market_id": "7368402",
-   "tokens": [
-    "42732080239939975426275446066101992133050104413452511359045227176371658969838",
-    "59194115250526866301402063310646246191083453298351743673691107954523589326529"
-   ],
-   "token": "42732080239939975426275446066101992133050104413452511359045227176371658969838",
-   "fav": "Priska Madelyn Nugroho",
-   "pregame": 0.925,
-   "start": 1795752000.0,
-   "start_et": "2026-11-26 23:00:00 EST",
-   "url": "https://polymarket.com/event/itf-nugroh1-rao1-2026-11-27",
-   "league": "ITF",
-   "title": "W15 Kolkata: Priska Madelyn Nugroho vs Sandeepti Singh Rao",
-   "outcomes": [
-    "Priska Madelyn Nugroho",
-    "Sandeepti Singh Rao"
-   ],
-   "eslug": "itf-nugroh1-rao1-2026-11-27",
-   "screened_et": "2026-11-26 21:27:11 EST",
-   "screened_at": 1795746402.3048775,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-singh3-lomaki1-2026-11-27",
-   "market_id": "7368628",
-   "tokens": [
-    "12114388966646368952017852940747441409991983910869020658141124931931382835402",
-    "65402344049078914068334115476116509578936834927253987378545469616579724274211"
-   ],
-   "token": "12114388966646368952017852940747441409991983910869020658141124931931382835402",
-   "fav": "Karan Singh",
-   "pregame": 0.92,
-   "start": 1795755600.0,
-   "start_et": "2026-11-27 00:00:00 EST",
-   "url": "https://polymarket.com/event/itf-singh3-lomaki1-2026-11-27",
-   "league": "ITF",
-   "title": "M25 Bhopal: Karan Singh vs Grigoriy Lomakin",
-   "outcomes": [
-    "Karan Singh",
-    "Grigoriy Lomakin"
-   ],
-   "eslug": "itf-singh3-lomaki1-2026-11-27",
-   "screened_et": "2026-11-26 21:27:11 EST",
-   "screened_at": 1795746402.3048775,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
-  {
-   "key": "itf-gima1-vaisma1-2026-11-27",
-   "market_id": "7370169",
-   "tokens": [
-    "48514083195726325135673616003379118581345365201186012848675226550901642675018",
-    "84553620349223374678240702498844597973125227178253001390879869370004284541756"
-   ],
-   "token": "48514083195726325135673616003379118581345365201186012848675226550901642675018",
-   "fav": "Sebastian Gima",
-   "pregame": 0.91,
-   "start": 1795762800.0,
-   "start_et": "2026-11-27 02:00:00 EST",
-   "url": "https://polymarket.com/event/itf-gima1-vaisma1-2026-11-27",
-   "league": "ITF",
-   "title": "M15 Antalya: Sebastian Gima vs Tim Vaisman",
-   "outcomes": [
-    "Sebastian Gima",
-    "Tim Vaisman"
-   ],
-   "eslug": "itf-gima1-vaisma1-2026-11-27",
-   "screened_et": "2026-11-26 21:27:11 EST",
-   "screened_at": 1795746402.3048775,
-   "bet": false,
-   "settled": false,
-   "recorded": false
-  },
   {
    "key": "itf-malla1-bini1-2026-11-27",
    "market_id": "7384349",
@@ -173,7 +95,7 @@
    ],
    "token": "65881971919017787387410217872304036604769619828378212708881960519950099508200",
    "fav": "Butler Bulldogs",
-   "pregame": 0.94,
+   "pregame": 0.9545,
    "start": 1795809600.0,
    "start_et": "2026-11-27 15:00:00 EST",
    "url": "https://polymarket.com/event/cbb-bella-butl-2026-11-27",
@@ -188,7 +110,10 @@
    "screened_at": 1795746402.3048775,
    "bet": false,
    "settled": false,
-   "recorded": false
+   "recorded": true,
+   "recorded_at": 1795809254.458963,
+   "recorded_et": "2026-11-27 14:54:14 EST",
+   "qualifies": true
   },
   {
    "key": "cbb-umbc-geows-2026-11-27",
